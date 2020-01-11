@@ -1,0 +1,7 @@
+id=Enable_Low_Memory_Flag
+name=Enable Low Memory Flag
+version=v1.0
+versionCode=000100000
+author=Firefinchdev
+description=Enables Low Memory Flag
+minMagisk=1671
